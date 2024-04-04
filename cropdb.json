@@ -1,0 +1,62 @@
+{
+    "crops": [
+      {
+        "crop_id": 1,
+        "crop_name": "Wheat"
+      },
+      {
+        "crop_id": 2,
+        "crop_name": "Corn"
+      },
+      {
+        "crop_id": 3,
+        "crop_name": "Tomato"
+      },
+      {
+        "crop_id": 4,
+        "crop_name": "Potato"
+      },
+      {
+        "crop_id": 5,
+        "crop_name": "Carrot"
+      }
+    ],
+    "crop_quantities": [
+      {
+        "crop_quantity_id": 1,
+        "crop_id": 1,
+        "quantity": 500,
+        "planting_date": "2023-01-01",
+        "harvesting_date": "2023-05-01"
+      },
+      {
+        "crop_quantity_id": 2,
+        "crop_id": 2,
+        "quantity": 800,
+        "planting_date": "2023-02-01",
+        "harvesting_date": "2023-07-01"
+      },
+      {
+        "crop_quantity_id": 3,
+        "crop_id": 3,
+        "quantity": 300,
+        "planting_date": "2023-03-01",
+        "harvesting_date": "2023-09-01"
+      },
+      {
+        "crop_quantity_id": 4,
+        "crop_id": 4,
+        "quantity": 600,
+        "planting_date": "2023-04-01",
+        "harvesting_date": "2023-11-01"
+      },
+      {
+        "crop_quantity_id": 5,
+        "crop_id": 5,
+        "quantity": 400,
+        "planting_date": "2023-05-01",
+        "harvesting_date": "2023-10-01"
+      }
+    ]
+  }
+  
