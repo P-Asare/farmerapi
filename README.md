@@ -5,16 +5,18 @@ The FarmerApi is designed to provide data about the crops harvested by a farmer.
 
 **Server IP Address:** 16.171.235.91
 
+**Web file:** ```http://16.171.235.91/farmerapi/```
+
 ### Endpoints:
 
 1. **Display all crops available by user**
 
-   - **Endpoint:** [http://16.171.235.91/farmerapi/display_crops.php?show=true](http://16.171.235.91/farmerapi/display_crops.php?show=true)
+   - **Endpoint:** [api/display_crops.php?show=true](http://16.171.235.91/farmerapi/display_crops.php?show=true)
    - **Request Type:** GET
 
 2. **Display details for a particular crop**
 
-   - **Endpoint:** [http://16.171.235.91/farmerapi/display_crop_action.php](http://16.171.235.91/farmerapi/display_crop_action.php)
+   - **Endpoint:** [api/display_crop_action.php](http://16.171.235.91/farmerapi/display_crop_action.php)
    - **Request Type:** POST
 
 ### Data Format:
